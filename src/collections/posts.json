@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Before the Cloud - How Servers were deployed",
+		"description": "Imagine you need a computer to do some work. Option (1) Buy your computer. You'll own it, set it up, and fix any problems.",
+		"dateFormatted": "July 2024",
+		"image": "/assets/images/posts/beforecloud.avif",
+		"link": "https://mercyikpe.hashnode.dev/before-the-cloud-how-servers-were-deployed"
+	},
+	{
+		"title": "Integrating Intercom in Vue3 app",
+		"description": "How to integrate Intercom in Vue3 app without a third-party plugin.",
+		"dateFormatted": "Apr 2022",
+		"image": "/assets/images/posts/intercom.avif",
+		"link": "https://mercyikpe.hashnode.dev/integrating-intercom-in-vue3-app"
+	},
+	{
+		"title": "PHPSandbox 1 to 10k users - The Journey",
+		"description": "The journey from 1 user to 10k users",
+		"dateFormatted": "Mar 2022",
+		"image": "/assets/images/posts/10k-users.avif",
+		"link": "https://mercyikpe.hashnode.dev/10k-users-the-journey"
+	},
+	{
+		"title": "Shell Scripting - basic concepts",
+		"description": "Consider a scenario - setting up a new development environment.This typically involves creating a user, a group, directories, and files, and installing and running software. These commands would have to be run manually in the terminal. Manually runn",
+		"dateFormatted": "Aug 2024",
+		"image": "/assets/images/posts/shell-scripting.avif",
+		"link": " https://mercyikpe.hashnode.dev/shell-scripting-basic-concepts"
+	}
+]

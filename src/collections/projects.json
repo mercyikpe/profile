@@ -1,38 +1,26 @@
 [
 	{
-		"name": "TempMail.Best",
-		"description": "Best Temporary Email.",
-		"image": "/assets/images/projects/tempmail.best.png",
-		"url": "https://tempmail.best"
+		"name": "PHPSandbox",
+		"description": "Build your next PHP app in seconds.",
+		"image": "/assets/images/projects/phpsandbox.png",
+		"url": "https://phpsandbox.io"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Rukah",
+		"description": "Review & Discover Trusted Wedding Vendors.",
+		"image": "/assets/images/projects/rukah.png",
+		"url": "https://rukah.co"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Play",
+		"description": "A playground to try Composer packages. With it, you can try 550k+ packages using a standard PHP environment.",
+		"image": "/assets/images/projects/play.jpg",
+		"url": "https://play.phpsandbox.io"
 	},
 	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
-	},
-	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
-	},
-	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"name": "AIMAS R-FIRM",
+		"description": "A Social Enterprise that helps design and facilitate social projects (CSR).",
+		"image": "/assets/images/projects/aima.png",
+		"url": "https://aima.africa"
 	}
 ]

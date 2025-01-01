@@ -1,0 +1,50 @@
+[
+	{
+		"name": "forher - One Girl, Many Possibilities",
+		"description": "Getting Started in tech.",
+		"image": "/assets/images/events/forher.jpg",
+		"url": "#"
+	},
+	{
+		"name": "Internet Society - Nigeria Chapter",
+		"description": "International women’s day. Theme: Why Bother: DigitAll: Innovation and technology for gender equality.",
+		"image": "/assets/images/events/internet-society.jpg",
+		"url": "#"
+	},
+	{
+		"name": "GDG Uyo - IO Extended",
+		"description": "PWAs: What, why and how.",
+		"image": "/assets/images/events/ioextended2022.jpg",
+		"url": "https://gdg.community.dev/events/details/google-gdg-uyo-presents-io-extended-uyo-1"
+	},
+	{
+		"name": "Office of the Deputy Senate President, University of Uyo",
+		"description": "Females in Technovation.",
+		"image": "/assets/images/events/uniuyo.jpg",
+		"url": "#"
+	},
+	{
+		"name": "Department of Computer Science, Ritman University",
+		"description": "The Tech & Biz Talk.",
+		"image": "/assets/images/events/ritman-uni.jpg",
+		"url": "#"
+	},
+	{
+		"name": "Start Innovation Hub - Boost 3",
+		"description": "How versatile should I be to be employed.",
+		"image": "/assets/images/events/starthub.jpg",
+		"url": "#"
+	},
+	{
+		"name": "DevFest19 - GDG Warri ",
+		"description": "Recent changes in the Web.",
+		"image": "/assets/images/events/devfestwarri.jpg",
+		"url": "#"
+	},
+	{
+		"name": "Oro Youth Submit",
+		"description": "Role of Technology in an evolving society.",
+		"image": "/assets/images/events/oro-tech.jpg",
+		"url": "#"
+	}
+]

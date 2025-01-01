@@ -4,15 +4,19 @@
 		"url": "/"
 	},
 	{
+		"name": "About",
+		"url": "/about"
+	},
+	{
+		"name": "Events",
+		"url": "/events"
+	},
+	{
 		"name": "Posts",
 		"url": "/posts"
 	},
 	{
 		"name": "Projects",
 		"url": "/projects"
-	},
-	{
-		"name": "About",
-		"url": "/about"
 	}
 ]
